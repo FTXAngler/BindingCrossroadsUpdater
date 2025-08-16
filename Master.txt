@@ -1,4 +1,4 @@
 
 <Version: 1.01>
-/data/Map001.json https://drive.google.com/uc?export=download&id=1DzlQUhf-bn5G5kR5jCoOsphawcP6T3rc
+
 <End of Version>
